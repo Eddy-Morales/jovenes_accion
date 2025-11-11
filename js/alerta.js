@@ -1,5 +1,5 @@
 // Base URL de la aplicación (ajusta si despliegas en otra ruta)
-const APP_BASE = '/AplicativoANT';
+const APP_BASE = '';
 
 $(document).ready(function () {
   $("#loginForm").on("submit", function (e) {
